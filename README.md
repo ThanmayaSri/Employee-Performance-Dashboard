@@ -57,9 +57,9 @@ To practice Excel data analysis by creating a **dashboard that visualizes employ
 ---
 
 ## 📷 Dashboard Preview
- 
-You can upload it by dragging a PNG/JPG into the repo and referencing it here like:  
-`![Dashboard Screenshot](dashboard-preview.png)`
+
+![Dashboard Screenshot](dashboard-preview.png)
+
 
 
 
