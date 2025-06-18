@@ -39,10 +39,11 @@ To practice Excel data analysis by creating a **dashboard that visualizes employ
 
 ## 📁 Files
 
-| Filename                          | Description                           |
-|----------------------------------|---------------------------------------|
-| `Employee_Performance_Dashboard.xlsx` | Main Excel file with dashboard          |
-| `README.md`                      | This file — explains the project       |
+| Filename                                             | Description                              |
+|------------------------------------------------------|------------------------------------------|
+| `Employee_Performance_Dashboard.xlsx`                | Main Excel file with final dashboard     |
+| `Extended_Employee_Performance_and_Productivity_Data.csv` | Raw Kaggle dataset used in this project |
+| `README.md`                                          | This file — explains the project         |
 
 ---
 
