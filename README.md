@@ -57,6 +57,14 @@ To practice Excel data analysis by creating a **dashboard that visualizes employ
 
 ---
 
+## 📥 Download Final Files
+
+You can download the full Excel dashboard and CSV dataset from the release below:
+
+🔗 [Download Dashboard & Dataset (GitHub Release)](https://github.com/ThanmayaSri/Employee-Performance-Dashboard/releases/tag/v1.0.0)
+
+---
+
 ## 📷 Dashboard Preview
 
 ![Dashboard Screenshot](dashboard-preview.png)
